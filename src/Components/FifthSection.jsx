@@ -67,7 +67,7 @@ const FifthSection = () => {
       <div className="md:px-12 px-6">
         <hr style={{ backgroundColor: "#9E9E9E" }} />
       </div>
-      <div className="text-center text-[14px] font-[poppins] font-normal text-[#9E9E9E] py-20 bg-[#212121]">
+      <div className="text-center text-[14px] font-[poppins] font-normal text-[#9E9E9E] py-5 bg-[#212121]">
         Toate drepturile rezervate © Aesthetic Lab{" "}
       </div>
     </div>
