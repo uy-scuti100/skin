@@ -33,12 +33,10 @@ const SecondSection = () => {
             <p className="text-[miracle] text-[16px] font-[400] leading-[45.61px] text-[#212121]">
               Rejuvenare <br /> faciala laser
             </p>
-            <div className="flex space-x-8">
-              <button className="bg-[#B58224] text-white text-[12px] px-6 py-1 rounded-lg">
-                Ofertă
-              </button>{" "}
-              <p>350 Lei</p>
-            </div>
+            <p className="bg-[#B58224] text-white w-[100px] text-[12px] px-6 py-1  rounded-lg">
+              Ofertă
+            </p>
+            <p>350 Lei</p>
           </div>
           <div className="flex flex-col gap-4 md:gap-2">
             <img
