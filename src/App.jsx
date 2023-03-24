@@ -9,7 +9,7 @@ import ThirdSection from "./Components/ThirdSection";
 
 function App() {
   return (
-    <div className="max-w-full bg-#4C4C4C] mx-a-uto md:bg-[#212121] min-h-screen overflow-x-hidden relative">
+    <div className="bg-[#4C4C4C] md:bg-[#212121] overflow-x-hidden relative">
       <Navbar />
       <MobileNav />
       <Hero />

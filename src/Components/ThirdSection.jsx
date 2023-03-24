@@ -5,7 +5,6 @@ const ThirdSection = () => {
     <div>
       <div className="flex flex-col justify-between pt-20 md:flex-row items-center bg-[#212121] ">
         <div className="md:relative self-start ">
-          {" "}
           <img
             src="images/Rectangle 26.png"
             alt="/"
@@ -16,7 +15,6 @@ const ThirdSection = () => {
             src="images/dotted.png"
             alt="/"
             className="-translate-y-[100px] translate-x-[100px] md:translate-y-0 md:translate-x-0 md:absolute md:-right-5 md:bottom-5 z-10"
-          />
           />
           <img
             src="images/Ellipse 2.png"
