@@ -4,6 +4,8 @@ import MobileNav from "./Components/MobileNav";
 import Navbar from "./Components/Navbar";
 import SecondSection from "./Components/SecondSection";
 import ThirdSection from "./Components/ThirdSection";
+import FourthSection from "./Components/FourthSection";
+import FifthSection from "./Components/FifthSection";
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <MainSection />
       <SecondSection />
       <ThirdSection />
+      <FourthSection />
+      <FifthSection />
     </div>
   );
 }
